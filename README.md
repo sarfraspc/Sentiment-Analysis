@@ -78,16 +78,17 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 Dataset: [Twitter US Airline Sentiment (Kaggle)](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 
 ---
 
-## 🙌 Author
+## Author
 
 **Sarfras** –
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammedsarfras)) | [GitHub]([https://github.com/yourusername](https://github.com/sarfraspc/Sentiment-Analysis.git))
+[Linkedin](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
+[Github](https://github.com/sarfraspc/Sentiment-Analysis.git)
 
 ---
 

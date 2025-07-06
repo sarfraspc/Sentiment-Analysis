@@ -60,7 +60,7 @@ Sentiment Analysis/
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
+git clone https://github.com/sarfraspc/Sentiment-Analysis.git
 cd sentiment-analysis
 ````
 
